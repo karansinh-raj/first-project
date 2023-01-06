@@ -1,0 +1,7 @@
+using System;
+
+class Master{
+	static void Main(string[] args){
+		Console.WriteLine("Master Class");
+	}
+}
