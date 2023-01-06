@@ -1,0 +1,7 @@
+using System;
+
+namespace MyApp{
+	class MyApp{
+		Console.WriteLine("Hello World!");
+	}
+}
