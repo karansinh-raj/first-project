@@ -1,7 +1,0 @@
-using System;
-
-namespace FeaturesApp{
-	class FeaturesApp{
-		Console.WriteLine("Features!");
-	}
-}
