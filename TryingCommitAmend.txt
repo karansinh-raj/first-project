@@ -1,3 +1,2 @@
 Hello commit Amend
 hello world
-my name is karan
